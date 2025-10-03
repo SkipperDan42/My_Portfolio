@@ -465,6 +465,7 @@
                 "pyshop.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/PyShop/pyshop.py",
                 "stock.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/PyShop/stock.csv"
               },
+              "PyShop 2 Tkinter Boogaloo Tasks.pdf": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/PyShop 2 Tkinter Boogaloo Tasks.pdf",
               "Tkinter": {
                 "tkinter project COMPLETE": {
                   "FULL_add_stock.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_add_stock.py",
@@ -573,55 +574,6 @@
             "Ffeiliau Amgryptio.zip": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/Ffeiliau Amgryptio.zip"
           }
         },
-        "Hwb Live Learning": {
-          "microbit_ML_CY.pdf": "resources/Technocamps/Workshops/Hwb Live Learning/microbit_ML_CY.pdf",
-          "microbit_ML_EN.pdf": "resources/Technocamps/Workshops/Hwb Live Learning/microbit_ML_EN.pdf"
-        },
-        "InDev PyShop 2 Tkinter Boogaloo": {
-          "English": {
-            "PyShop 2 Tkinter Boogaloo Tasks.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/PyShop 2 Tkinter Boogaloo Tasks.pdf",
-            "PyShop_Tkinter_2025.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/PyShop_Tkinter_2025.pdf",
-            "Python Good Practice.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/Python Good Practice.pdf",
-            "tkinter project COMPLETE": {
-              "FULL_add_stock.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_add_stock.py",
-              "FULL_filehandling.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_filehandling.py",
-              "FULL_items.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_items.csv",
-              "FULL_login.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_login.py",
-              "FULL_main.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_main.py",
-              "FULL_shopface.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_shopface.py"
-            },
-            "tkinter project TASKS": {
-              "Task 1": {
-                "gui_shop_login.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 1/gui_shop_login.py"
-              },
-              "Task 2": {
-                "gui_shop_filehandling.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/gui_shop_filehandling.py",
-                "gui_shop_shopface.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/gui_shop_shopface.py",
-                "items.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/items.csv"
-              }
-            }
-          },
-          "Welsh": {
-            "prosiect tkinter LLAWN": {
-              "LLAWN_eitemau.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_eitemau.csv",
-              "LLAWN_ffeiliau.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_ffeiliau.py",
-              "LLAWN_main.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_main.py",
-              "LLAWN_mewngofnodi.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_mewngofnodi.py",
-              "LLAWN_siop.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_siop.py",
-              "LLAWN_ychwanegu_stoc.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_ychwanegu_stoc.py"
-            },
-            "prosiect tkinter TASGIAU": {
-              "Tasg 1": {
-                "gui_mewngofnodi.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 1/gui_mewngofnodi.py"
-              },
-              "Tasg 2": {
-                "eitemau.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/eitemau.csv",
-                "gui_ffeiliau.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/gui_ffeiliau.py",
-                "gui_siop.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/gui_siop.py"
-              }
-            }
-          }
-        },
         "Networks and Communications": {
           "EM_Spectrum.pdf": "resources/Technocamps/Workshops/Networks and Communications/EM_Spectrum.pdf",
           "NAC Event Workshop.pdf": "resources/Technocamps/Workshops/Networks and Communications/NAC Event Workshop.pdf",
@@ -675,32 +627,27 @@
         },
         "Text Adventure OOP": {
           "Text Adventure OOP EN.pdf": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure OOP EN.pdf",
-          "Text Adventure Project": {
-            "Entity.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Entity.py",
-            "Game.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Game.py",
-            "Map.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Map.py",
-            "Room.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Room.py",
-            "Rooms.csv": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Rooms.csv",
-            "reference_map.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/reference_map.txt",
-            "test.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/test.py"
-          }
-        },
-        "_InDev Python Text Adventure": {
-          "Development Folder": {
-            "Python Text Adventure EN.pdf": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Python Text Adventure EN.pdf",
-            "Text Adventure Project": {
-              "Dan.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/Dan.txt",
-              "Rooms.csv": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/Rooms.csv",
-              "actions.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/actions.py",
-              "actions.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/actions.txt",
-              "game_saves_list.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/game_saves_list.txt",
-              "help.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/help.txt",
-              "items.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/items.txt",
-              "load_assets.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/load_assets.py",
-              "map.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/map.txt",
-              "save_handling.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/save_handling.py",
-              "text_adventure.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/text_adventure.py"
-            }
+          "Text Adventure Project A": {
+            "Entity.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/Entity.py",
+            "Game.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/Game.py",
+            "Map.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/Map.py",
+            "Room.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/Room.py",
+            "Rooms.csv": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/Rooms.csv",
+            "reference_map.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/reference_map.txt",
+            "test.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project A/test.py"
+          },
+          "Text Adventure Project B": {
+            "Dan.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/Dan.txt",
+            "Rooms.csv": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/Rooms.csv",
+            "actions.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/actions.py",
+            "actions.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/actions.txt",
+            "game_saves_list.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/game_saves_list.txt",
+            "help.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/help.txt",
+            "items.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/items.txt",
+            "load_assets.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/load_assets.py",
+            "map.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/map.txt",
+            "save_handling.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/save_handling.py",
+            "text_adventure.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project B/text_adventure.py"
           }
         }
       }
