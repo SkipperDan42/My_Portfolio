@@ -51,7 +51,7 @@
 <script>
     async function loadManifest() {
         try {
-            const res = await fetch('manifest.json');
+            const res = await fetch('manifest.json?cacheBust=' + Date.now());
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             const data = await res.json();
 
