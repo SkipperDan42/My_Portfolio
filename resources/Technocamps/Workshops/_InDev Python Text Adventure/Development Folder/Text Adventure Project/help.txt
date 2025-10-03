@@ -1,0 +1,23 @@
+***************************************
+**        TEXT ADVENTURE HELP        **
+***************************************
+*                                     *
+* Here is a list of common commands:  *
+*                                     *
+* NORTH                               *
+* EAST                                *
+* SOUTH                               *
+* WEST                                *
+*                                     *
+* CLIMB                               *
+* LOOK AROUND                         *
+*                                     *
+* PICK UP                             *
+* GRAB                                *
+*                                     *
+*                                     *
+*                                     *
+*                                     *
+*                                     *
+*                                     *
+***************************************

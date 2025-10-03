@@ -1,0 +1,90 @@
+Room : Command : Modifier : Item : Blurb
+::::
+The Watchtower:Climb:Cliff::You climb down the cliff face.
+The Watchtower:Enter::Pocket Watch:You enter the watchtower. There are piles of old watches. You find one old pocket watch that still works.
+::::
+Hill Path:Climb:Boulders::You climb onto the boulders. Better be careful, this doesn't seem sturdy.
+::::
+The Overlook:Telescope:::You try to use one of the telescopes - it is broken - probably unused in decades.
+The Overlook:Pick up::Lens:You find a lens that once belonged in one of the telescopes.
+::::
+Nature Trail:Catch::Bluebird:You catch a bluebird mid-flight. You put it in your bag. You wonder why you have done this.
+::::
+Reservoir:Swim::An Old Compass:You swim out into the reservoir, you notice a reflection beneath the surface. You dive and find a compass.
+::::
+Cliff Face:Climb:Boulders::You climb onto the boulders. Better be careful, this doesn't seem sturdy.
+::::
+Boulders:Pick up::First Aid Kit:You reach between the rocks and pull out a first aid kit. You hope whoever dropped this didn't need it.
+::::
+Top Of The Hill:Climb:Boulders::You climb onto the boulders. Better be careful, this doesn't seem sturdy.
+::::
+Power Station::::
+::::
+The Dam::::
+::::
+Small Clearing::::
+::::
+Rocky Slope:Climb:Boulders::You climb onto the boulders. Better be careful, this doesn't seem sturdy.
+::::
+On Hill::::
+::::
+Logged Forest::::
+::::
+River Bend::::
+::::
+Old Ruins::::
+::::
+Upper Forest::::
+::::
+Foot Of The Hill:Stream::One Gold Ring:You head toward the stream. You try stepping on the rocks but you slip.You land in the water, you're now wet. You find a gold ring.
+::::
+Foot Of The Hill:Pick Up::A Lost Sports Ball:You find a ball. I guess this is why you don't play sports on hills.
+::::
+Farm Pond::::
+::::
+The Barn::::
+::::
+Deep Forest::::
+::::
+Mid Forest::::
+::::
+Mid Valley:Whistle:::You whistle. The wind does not whistle back.
+::::
+Mid Valley:Pick Up:::There is nothing on the floor. Your hand is now wet.
+::::
+Farm Gate::::
+::::
+Farm House::::
+::::
+The Cave::::
+::::
+Lower Forest::::
+::::
+Bridge Over Stream::::
+::::
+Top Road::::
+::::
+The Orchard::::
+::::
+Inner Cave::::
+::::
+The Cottage::::
+::::
+Stream Side::::
+::::
+The Bend::::
+::::
+Bottom Road::::
+::::
+Deep Cave::::
+::::
+The Basement::::
+::::
+The Well::::
+::::
+Fields::::
+::::
+The Tunnels West::::
+::::
+The Tunnels East::::
+::::

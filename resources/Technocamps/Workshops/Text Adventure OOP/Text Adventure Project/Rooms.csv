@@ -1,0 +1,11 @@
+RoomName, xCoordinate, yCoordinate, Blurb
+,,,
+Reception,1,0,This seems to be the schools' reception. Broken glass and paper covers the floor. The blinds knock in the wind.
+,,,
+Hallway,1,1,You enter the main hallway. It is pitch black. There are no windows at all. Classroom doors line the walls. You can see a flickering light to the south.
+,,,
+DTClass,2,1,The DT class is dark and a stench pervades the room. There are tools everywhere; scattered across the floor. The floor is stained and sticky...
+,,,
+Cafeteria,1,2,The flickering light is dangling from the ceiling of the cafeteria. Tables are flipped; the room is in tatters. There is sound coming from the kitchens - the door is ajar...
+,,,
+ITClass,0,1,You're in the IT classroom.The ceiling has collapsed and the sound of water is deafening. One computer screen remains on - mid-program - at the back of the class.

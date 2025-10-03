@@ -1,0 +1,698 @@
+{
+  "resources": {
+    "Classroom Teaching": {
+      "Gwersi Hidlo": {
+        "Cynllun Gwers Hidlo.pdf": "resources/Classroom Teaching/Gwersi Hidlo/Cynllun Gwers Hidlo.pdf",
+        "Hidlo.pdf": "resources/Classroom Teaching/Gwersi Hidlo/Hidlo.pdf",
+        "Llenwi bylchau.pdf": "resources/Classroom Teaching/Gwersi Hidlo/Llenwi bylchau.pdf"
+      },
+      "Gwersi Mater": {
+        "Cyfaint A3.pdf": "resources/Classroom Teaching/Gwersi Mater/Cyfaint A3.pdf",
+        "Cynllun Gwers Mater.pdf": "resources/Classroom Teaching/Gwersi Mater/Cynllun Gwers Mater.pdf",
+        "Gronynnau A3.pdf": "resources/Classroom Teaching/Gwersi Mater/Gronynnau A3.pdf",
+        "Gronynnau Gludo.pdf": "resources/Classroom Teaching/Gwersi Mater/Gronynnau Gludo.pdf",
+        "Llyfryn Waith.pdf": "resources/Classroom Teaching/Gwersi Mater/Llyfryn Waith.pdf",
+        "Newidiadau Cyflwr A3.pdf": "resources/Classroom Teaching/Gwersi Mater/Newidiadau Cyflwr A3.pdf"
+      },
+      "TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf": "resources/Classroom Teaching/TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf",
+      "Uned 1.8 Damcaniaeth Ginetig.pdf": "resources/Classroom Teaching/Uned 1.8 Damcaniaeth Ginetig.pdf",
+      "Uned 3.4.2 Niwclear.pdf": "resources/Classroom Teaching/Uned 3.4.2 Niwclear.pdf"
+    },
+    "Mad Science": {
+      "Sustainability Lab": {
+        "RUNNING ORDER - SHOW - RENWEABLE ROAD.pdf": "resources/Mad Science/Sustainability Lab/RUNNING ORDER - SHOW - RENWEABLE ROAD.pdf",
+        "RUNNING ORDER - SL - ENERGY BURST.pdf": "resources/Mad Science/Sustainability Lab/RUNNING ORDER - SL - ENERGY BURST.pdf",
+        "RUNNING ORDER - SL - Pesky Plastics.pdf": "resources/Mad Science/Sustainability Lab/RUNNING ORDER - SL - Pesky Plastics.pdf",
+        "RUNNING ORDER - SL - Rockin Renewables.pdf": "resources/Mad Science/Sustainability Lab/RUNNING ORDER - SL - Rockin Renewables.pdf",
+        "Sustainability Lab_A5 Sponsorship Flyer.pdf": "resources/Mad Science/Sustainability Lab/Sustainability Lab_A5 Sponsorship Flyer.pdf"
+      }
+    },
+    "Technocamps": {
+      "External": {
+        "Big Pit (Amgueddfa Cymru)": {
+          "Big Pit Challenges.html": "resources/Technocamps/External/Big Pit (Amgueddfa Cymru)/Big Pit Challenges.html"
+        },
+        "NHS": {
+          "MatPlotLib": {
+            "Cheat Sheets": {
+              "Markdown Cheat Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/Markdown Cheat Sheet.pdf",
+              "Pandas_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/Pandas_Cheat_Sheet.pdf",
+              "matplotlib_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/matplotlib_Cheat_Sheet.pdf"
+            },
+            "MatPlotLib Python Project": {
+              "Ideas": {
+                "Session 2 - GW": {
+                  "Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Annual Surface Temperature Change.csv",
+                  "Atmospheric CO2 Concentrations.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Atmospheric CO2 Concentrations.csv",
+                  "Change in Mean Sea Levels.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Change in Mean Sea Levels.csv",
+                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task1.py",
+                  "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task2.py",
+                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task3.py",
+                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task4.py",
+                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task5.py",
+                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task6.py",
+                  "Worldwide Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Annual Surface Temperature Change.csv",
+                  "Worldwide Monthly Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Monthly Surface Temperature Change.csv",
+                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/main.py"
+                },
+                "Session 2 - IMDB": {
+                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task1.py",
+                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task3.py",
+                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task4.py",
+                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task5.py",
+                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task6.py",
+                  "imdb_top_1000.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/imdb_top_1000.csv",
+                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/main.py"
+                },
+                "Session 2 - Pokemon": {
+                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task1.py",
+                  "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task2.py",
+                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task3.py",
+                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task4.py",
+                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task5.py",
+                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task6.py",
+                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/main.py",
+                  "pokemon.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/pokemon.csv"
+                }
+              },
+              "Session 1 - UFO": {
+                "DansDiet.txt": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/DansDiet.txt",
+                "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task1.py",
+                "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task2.py",
+                "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task3.py",
+                "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task4.py",
+                "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task5.py",
+                "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task6.py",
+                "Task7.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task7.py",
+                "Task8.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task8.py",
+                "UFO_Sightings.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings.csv",
+                "UFO_Sightings_safe.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_safe.csv",
+                "UFO_Sightings_slim.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_slim.csv",
+                "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/main.py"
+              },
+              "Session 2 - Olympics": {
+                "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task1.py",
+                "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task2.py",
+                "Task3a.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3a.py",
+                "Task3b.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3b.py",
+                "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task4.py",
+                "athlete_events.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/athlete_events.csv",
+                "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/main.py",
+                "noc_regions.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/noc_regions.csv",
+                "test.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/test.py"
+              }
+            },
+            "NHS Data Analysis, Manipulation & Visualisation.pdf": "resources/Technocamps/External/NHS/MatPlotLib/NHS Data Analysis, Manipulation & Visualisation.pdf",
+            "NHS Python Basics & MatPlotLib.pdf": "resources/Technocamps/External/NHS/MatPlotLib/NHS Python Basics & MatPlotLib.pdf",
+            "Pandas_MatPlotLib_Lab_Task.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Pandas_MatPlotLib_Lab_Task.pdf"
+          }
+        }
+      },
+      "Teacher Training": {
+        "EAS Hybrid Secondary Course": {
+          "EAS Hybrid CS GCSE CPD Course Calendar.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/EAS Hybrid CS GCSE CPD Course Calendar.pdf",
+          "Unit 1": {
+            "Assignment": {
+              "U1 - Assignment 1.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Assignment/U1 - Assignment 1.pdf",
+              "U1A1 Marking Matrix.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Assignment/U1A1 Marking Matrix.pdf"
+            },
+            "Session 1 - Computational Thinking": {
+              "01 Intro & Comp Think.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 1 - Computational Thinking/01 Intro & Comp Think.pdf"
+            },
+            "Session 2 - Scratch Pen": {
+              "02 LOGO & Scratch Pen.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 2 - Scratch Pen/02 LOGO & Scratch Pen.pdf",
+              "Scratch Pen Examples.sb3": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 2 - Scratch Pen/Scratch Pen Examples.sb3"
+            },
+            "Session 3 - Intro To Scratch": {
+              "03 Intro To Scratch.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/03 Intro To Scratch.pdf",
+              "Additional Resources": {
+                "Scratch Programming Tasks.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/Additional Resources/Scratch Programming Tasks.pdf",
+                "Scratch Tasks.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/Additional Resources/Scratch Tasks.pdf",
+                "Scratch Workbook 1 (3.0).pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/Additional Resources/Scratch Workbook 1 (3.0).pdf",
+                "Scratch Workbook 2 (3.0).pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/Additional Resources/Scratch Workbook 2 (3.0).pdf"
+              },
+              "ButterflyEAS.sb3": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/ButterflyEAS.sb3",
+              "EAS Different Timers.sb3": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/EAS Different Timers.sb3",
+              "EAS Scratch Art.sb3": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 3 - Intro To Scratch/EAS Scratch Art.sb3"
+            },
+            "Session 4": {
+              "04 Scratch Across the Curriculum.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 4/04 Scratch Across the Curriculum.pdf"
+            },
+            "Session 5 - MicroBits Across the Curriculum": {
+              "05 MicroBits Across the Curriculum.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 5 - MicroBits Across the Curriculum/05 MicroBits Across the Curriculum.pdf",
+              "Electrifying MicroBit.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 5 - MicroBits Across the Curriculum/Electrifying MicroBit.pdf"
+            },
+            "Session 6 - Advanced MicroBit": {
+              "Datalogging & Machine Learning.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 6 - Advanced MicroBit/Datalogging & Machine Learning.pdf",
+              "Electronics - Microbit Smart Devices.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 1/Session 6 - Advanced MicroBit/Electronics - Microbit Smart Devices.pdf"
+            }
+          },
+          "Unit 2": {
+            "Assessments": {
+              "U2 - Assignment 1.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Assessments/U2 - Assignment 1.pdf",
+              "U2A1 Marking Matrix.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Assessments/U2A1 Marking Matrix.pdf"
+            },
+            "Week 1": {
+              "BranwenStarling.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 1/BranwenStarling.pdf",
+              "BranwenStarling_CY.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 1/BranwenStarling_CY.pdf",
+              "Python MicroBits.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 1/Python MicroBits.pdf",
+              "Python_MicroBits_CY.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 1/Python_MicroBits_CY.pdf"
+            },
+            "Week 10": {
+              "10 Systems Development Life Cycle.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 10/10 Systems Development Life Cycle.pdf",
+              "pyshop read:write": {
+                "Stock.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 10/pyshop read:write/Stock.csv",
+                "pyshop_rw.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 10/pyshop read:write/pyshop_rw.py"
+              }
+            },
+            "Week 11": {
+              "11 Python - Object Oriented.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/11 Python - Object Oriented.pdf",
+              "modulo_&_floor_division.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/modulo_&_floor_division.py",
+              "studentClass.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/studentClass.py",
+              "text adventure": {
+                "Rooms.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/text adventure/Rooms.csv",
+                "game.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/text adventure/game.py",
+                "map.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/text adventure/map.py",
+                "room.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/text adventure/room.py"
+              },
+              "tkinter_oop.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 11/tkinter_oop.py"
+            },
+            "Week 2": {
+              "02 Python IDEs.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 2/02 Python IDEs.pdf",
+              "03 Python Intro.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 2/03 Python Intro.pdf"
+            },
+            "Week 3": {
+              "03 Flowcharts.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/03 Flowcharts.pdf",
+              "03 Python Datatypes.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/03 Python Datatypes.pdf",
+              "03 Python Loops.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/03 Python Loops.pdf",
+              "Functions": {
+                "00_hello.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/00_hello.py",
+                "01_simple": {
+                  "average_calculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/01_simple/average_calculator.py",
+                  "calculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/01_simple/calculator.py",
+                  "palindrome.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/01_simple/palindrome.py",
+                  "temperature_calculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/01_simple/temperature_calculator.py",
+                  "word_count.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/01_simple/word_count.py"
+                },
+                "02_recursion": {
+                  "factorial_recursion.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/02_recursion/factorial_recursion.py",
+                  "interest_calculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 3/Functions/02_recursion/interest_calculator.py"
+                }
+              }
+            },
+            "Week 4": {
+              "DataFiles": {
+                "BeanieBabies.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/BeanieBabies.csv",
+                "STAR_WARS_unformatted.txt": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/STAR_WARS_unformatted.txt",
+                "ScoobyDoo.txt": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/ScoobyDoo.txt",
+                "Welsh_Counties.txt": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/Welsh_Counties.txt",
+                "girl_boy_names_2023.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/girl_boy_names_2023.csv",
+                "phonebook.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/phonebook.csv",
+                "username.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/DataFiles/username.csv"
+              },
+              "Phonebook Solution": {
+                "phonebook.csv": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/Phonebook Solution/phonebook.csv",
+                "phonebook.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/Phonebook Solution/phonebook.py"
+              },
+              "Week 4 Exercises.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 4/Week 4 Exercises.pdf"
+            },
+            "Week 5": {
+              "05 Algorithms_PresentationEN.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/05 Algorithms_PresentationEN.pdf",
+              "05 MatPlotLib.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/05 MatPlotLib.pdf",
+              "Sorting and Searching": {
+                "Search&Sort.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/Search&Sort.py",
+                "binarySearch.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/binarySearch.py",
+                "bubbleSort.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/bubbleSort.py",
+                "insertionSort.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/insertionSort.py",
+                "linearSearch.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/linearSearch.py",
+                "mergeSort.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 5/Sorting and Searching/mergeSort.py"
+              }
+            },
+            "Week 6": {
+              "Flowchart Programs": {
+                "age+2.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 6/Flowchart Programs/age+2.py",
+                "login.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 6/Flowchart Programs/login.py"
+              },
+              "Python Good Practice.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 6/Python Good Practice.pdf",
+              "filecalculator.zip": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 6/filecalculator.zip"
+            },
+            "Week 7": {
+              "07 PyShop.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 7/07 PyShop.pdf",
+              "python programs": {
+                "2D_Lists.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 7/python programs/2D_Lists.py",
+                "driving_elegibility.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 7/python programs/driving_elegibility.py",
+                "functions.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 7/python programs/functions.py",
+                "pyshop": {
+                  "pyshop.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 7/python programs/pyshop/pyshop.py"
+                }
+              }
+            },
+            "Week 8": {
+              "08 Programming Principles.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/08 Programming Principles.pdf",
+              "08 Software Development Life Cycle.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/08 Software Development Life Cycle.pdf",
+              "python programs": {
+                "ModularAreaCalculator": {
+                  "AreaCalculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/ModularAreaCalculator/AreaCalculator.py",
+                  "CircleCalculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/ModularAreaCalculator/CircleCalculator.py",
+                  "Main.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/ModularAreaCalculator/Main.py",
+                  "RectangleCalculator.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/ModularAreaCalculator/RectangleCalculator.py"
+                },
+                "Readable.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/Readable.py",
+                "Unreadable.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/Unreadable.py",
+                "tkinter": {
+                  "FirstGUI.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/FirstGUI.py",
+                  "Grid.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/Grid.py",
+                  "Pack.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/Pack.py",
+                  "Place.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/Place.py",
+                  "SimpleGUI.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/SimpleGUI.py",
+                  "pyshop": {
+                    "LoginGUI.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/pyshop/LoginGUI.py",
+                    "pyshop.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 8/python programs/tkinter/pyshop/pyshop.py"
+                  }
+                }
+              }
+            },
+            "Week 9": {
+              "Tkinter Programs": {
+                "all_tkinter_programs.zip": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/all_tkinter_programs.zip",
+                "tkinter decoupled": {
+                  "tkinter_core_decoupled.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter decoupled/tkinter_core_decoupled.py",
+                  "tkinter_filehandling_decoupled.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter decoupled/tkinter_filehandling_decoupled.py",
+                  "tkinter_login_decoupled.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter decoupled/tkinter_login_decoupled.py",
+                  "tkinter_main_decoupled.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter decoupled/tkinter_main_decoupled.py"
+                },
+                "tkinter_full_session.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter_full_session.py",
+                "tkinter_full_wjec.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter_full_wjec.py",
+                "tkinter_global.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter_global.py",
+                "tkinter_login": {
+                  "tkinter_login.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter_login/tkinter_login.py",
+                  "wjec_login.py": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 2/Week 9/Tkinter Programs/tkinter_login/wjec_login.py"
+                }
+              }
+            }
+          },
+          "Unit 3": {
+            "Assessments": {
+              "U3 - Assignment 1.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Assessments/U3 - Assignment 1.pdf",
+              "U3A1 Marking Matrix.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Assessments/U3A1 Marking Matrix.pdf"
+            },
+            "Week 1": {
+              "01 File Types & Compression.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 1/01 File Types & Compression.pdf",
+              "Resources.zip": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 1/Resources.zip"
+            },
+            "Week 2": {
+              "02 Boolean Algebra.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 2/02 Boolean Algebra.pdf",
+              "02 Number Systems.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 2/02 Number Systems.pdf"
+            },
+            "Week 3": {
+              "03 Operating systems.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 3/03 Operating systems.pdf",
+              "03 Program Construction.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 3/03 Program Construction.pdf"
+            },
+            "Week 4": {
+              "04 AssemblyLanguage_PresentationEN.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 4/04 AssemblyLanguage_PresentationEN.pdf"
+            },
+            "Week 5": {
+              "Networks & Infrastructure.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 5/Networks & Infrastructure.pdf"
+            },
+            "Week 6": {
+              "Automated Systems.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 6/Automated Systems.pdf"
+            },
+            "Week 7": {
+              "Cybersecurity.pdf": "resources/Technocamps/Teacher Training/EAS Hybrid Secondary Course/Unit 3/Week 7/Cybersecurity.pdf"
+            }
+          }
+        },
+        "Education Conference 2022 Resources": {
+          "Machine Learning ": {
+            "Artists (60 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Artists (60 images).zip",
+            "Artists (90 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Artists (90 images).zip",
+            "Presentations": {
+              "CFW Primary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Primary Machine Learning CPD CY.pdf",
+              "CFW Primary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Primary Machine Learning CPD EN.pdf",
+              "CFW Secondary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Secondary Machine Learning CPD CY.pdf",
+              "CFW Secondary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Secondary Machine Learning CPD EN.pdf"
+            },
+            "Primary Version": {
+              "Test images.zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Primary Version/Test images.zip"
+            },
+            "Scratch Files": {
+              "Artist Recognition Advanced.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Artist Recognition Advanced.sb3",
+              "Artist Recognition Simple.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Artist Recognition Simple.sb3",
+              "Authors Recognition.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Authors Recognition.sb3",
+              "Make Me Happy.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Make Me Happy.sb3",
+              "Note on examples.txt": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Note on examples.txt"
+            },
+            "Workbooks": {
+              "CFW_MLfK_CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Workbooks/CFW_MLfK_CY.pdf",
+              "CFW_MLfK_EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Workbooks/CFW_MLfK_EN.pdf"
+            }
+          },
+          "Programming Across CFW": {
+            "Presentations": {
+              "CFW Python CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Presentations/CFW Python CPD EN.pdf",
+              "CFW Scratch CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Presentations/CFW Scratch CPD CY.pdf",
+              "CFW Scratch CPD EN 13.18.37.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Presentations/CFW Scratch CPD EN 13.18.37.pdf",
+              "CfW Python CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Presentations/CfW Python CPD CY.pdf",
+              "Scratch Across the Curriculum.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Presentations/Scratch Across the Curriculum.pdf"
+            },
+            "Python Files": {
+              "CaesarCipherAlphabet.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/CaesarCipherAlphabet.py",
+              "Decay Simulation HalfLife.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/Decay Simulation HalfLife.py",
+              "MicrobitMusicAderynMelyn.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/MicrobitMusicAderynMelyn.py",
+              "MicrobitPedometer.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/MicrobitPedometer.py",
+              "PythagorasAngles.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/PythagorasAngles.py",
+              "TurtleExample.py": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Python Files/TurtleExample.py"
+            },
+            "Scratch Files": {
+              "English": {
+                "Algorithm Art.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Algorithm Art.sb3",
+                "Colours Game.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Colours Game.sb3",
+                "Migration.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Migration.sb3",
+                "Pen Shapes.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Pen Shapes.sb3",
+                "Pi Estimation.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Pi Estimation.sb3",
+                "Pong.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Pong.sb3",
+                "States Of Matter.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/States Of Matter.sb3",
+                "Translation Game.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Translation Game.sb3",
+                "Water Cycle.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/English/Water Cycle.sb3"
+              },
+              "Welsh": {
+                "Amcangyfrif Pi.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Amcangyfrif Pi.sb3",
+                "Celf Algorithm.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Celf Algorithm.sb3",
+                "Cwis Cyfieithu.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cwis Cyfieithu.sb3",
+                "Cyflyrau Mater.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cyflyrau Mater.sb3",
+                "Cylchred Dw\u0302r.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cylchred Dw\u0302r.sb3",
+                "G\u00eam Lliwiau.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/G\u00eam Lliwiau.sb3",
+                "Pong.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Pong.sb3",
+                "Siapau Pen.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Siapau Pen.sb3",
+                "Ymfudiad.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Ymfudiad.sb3"
+              }
+            },
+            "Workbooks": {
+              "CFW_Python_WorkbookCY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Workbooks/CFW_Python_WorkbookCY.pdf",
+              "CFW_Python_WorkbookEN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Workbooks/CFW_Python_WorkbookEN.pdf",
+              "CFW_Scratch_WorkbookCY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Workbooks/CFW_Scratch_WorkbookCY.pdf",
+              "CFW_Scratch_WorkbookEN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Workbooks/CFW_Scratch_WorkbookEN.pdf"
+            }
+          }
+        },
+        "Education Conference 2023 Resources": {
+          "CyberSecurity Secondary": {
+            "English": {
+              "CyberSecurity Secondary EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/CyberSecurity Secondary EN.pdf",
+              "CyberSecurity Secondary Teacher Guidance EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/CyberSecurity Secondary Teacher Guidance EN.pdf",
+              "Encryption Files": {
+                "Decrypted": {
+                  "TC-Marketing-Logo.png": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Decrypted/TC-Marketing-Logo.png",
+                  "bin": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Decrypted/bin",
+                  "hiddenpic.png": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Decrypted/hiddenpic.png",
+                  "temp": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Decrypted/temp"
+                },
+                "Encrypted": {
+                  "bin": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Encrypted/bin",
+                  "temp": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Encrypted/temp",
+                  "unknown": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/English/Encryption Files/Encrypted/unknown"
+                }
+              }
+            },
+            "Welsh": {
+              "CyberSecurity Secondary CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/CyberSecurity Secondary CY.pdf",
+              "CyberSecurity Secondary Teacher Guidance CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/CyberSecurity Secondary Teacher Guidance CY.pdf",
+              "Ffeiliau Amgryptio": {
+                "Wedi Amgrypito": {
+                  "bin": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Amgrypito/bin",
+                  "temp": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Amgrypito/temp",
+                  "unknown": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Amgrypito/unknown"
+                },
+                "Wedi Dadgryptio": {
+                  "TC-Marketing-Logo.png": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Dadgryptio/TC-Marketing-Logo.png",
+                  "bin": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Dadgryptio/bin",
+                  "hiddenpic.png": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Dadgryptio/hiddenpic.png",
+                  "temp": "resources/Technocamps/Teacher Training/Education Conference 2023 Resources/CyberSecurity Secondary/Welsh/Ffeiliau Amgryptio/Wedi Dadgryptio/temp"
+                }
+              }
+            }
+          }
+        },
+        "Education Conference 2024 Resources": {
+          "microbit DataLogging": {
+            "data_logging_CY.png": "resources/Technocamps/Teacher Training/Education Conference 2024 Resources/microbit DataLogging/data_logging_CY.png",
+            "data_logging_EN.png": "resources/Technocamps/Teacher Training/Education Conference 2024 Resources/microbit DataLogging/data_logging_EN.png",
+            "microbit_DataLogging_and_ML_CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2024 Resources/microbit DataLogging/microbit_DataLogging_and_ML_CY.pdf",
+            "microbit_DataLogging_and_ML_EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2024 Resources/microbit DataLogging/microbit_DataLogging_and_ML_EN.pdf"
+          }
+        },
+        "Education Conference 2025 Resources": {
+          "Python & Tkinter": {
+            "English": {
+              "(F) Secondary Teacher Workbook.pdf": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/(F) Secondary Teacher Workbook.pdf",
+              "Hangman": {
+                "hangman.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Hangman/hangman.py",
+                "hangman_tk.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Hangman/hangman_tk.py",
+                "wordlist.txt": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Hangman/wordlist.txt"
+              },
+              "PyShop": {
+                "pyshop.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/PyShop/pyshop.py",
+                "stock.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/PyShop/stock.csv"
+              },
+              "Tkinter": {
+                "tkinter project COMPLETE": {
+                  "FULL_add_stock.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_add_stock.py",
+                  "FULL_filehandling.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_filehandling.py",
+                  "FULL_items.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_items.csv",
+                  "FULL_login.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_login.py",
+                  "FULL_main.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_main.py",
+                  "FULL_shopface.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project COMPLETE/FULL_shopface.py"
+                },
+                "tkinter project TASKS": {
+                  "Task 1": {
+                    "gui_shop_login.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project TASKS/Task 1/gui_shop_login.py"
+                  },
+                  "Task 2": {
+                    "gui_shop_filehandling.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project TASKS/Task 2/gui_shop_filehandling.py",
+                    "gui_shop_shopface.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project TASKS/Task 2/gui_shop_shopface.py",
+                    "items.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/English/Tkinter/tkinter project TASKS/Task 2/items.csv"
+                  }
+                }
+              }
+            },
+            "Welsh": {
+              "(F) Secondary Teacher Workbook_CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/(F) Secondary Teacher Workbook_CY.pdf",
+              "Hangman": {
+                "hangman.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Hangman/hangman.py",
+                "hangman_tk.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Hangman/hangman_tk.py",
+                "wordlist.txt": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Hangman/wordlist.txt"
+              },
+              "PyShop": {
+                "pyshop.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/PyShop/pyshop.py",
+                "stoc.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/PyShop/stoc.csv"
+              },
+              "Tkinter": {
+                "prosiect tkinter LLAWN": {
+                  "LLAWN_eitemau.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_eitemau.csv",
+                  "LLAWN_ffeiliau.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_ffeiliau.py",
+                  "LLAWN_main.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_main.py",
+                  "LLAWN_mewngofnodi.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_mewngofnodi.py",
+                  "LLAWN_siop.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_siop.py",
+                  "LLAWN_ychwanegu_stoc.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter LLAWN/LLAWN_ychwanegu_stoc.py"
+                },
+                "prosiect tkinter TASGIAU": {
+                  "Tasg 1": {
+                    "gui_mewngofnodi.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter TASGIAU/Tasg 1/gui_mewngofnodi.py"
+                  },
+                  "Tasg 2": {
+                    "eitemau.csv": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter TASGIAU/Tasg 2/eitemau.csv",
+                    "gui_ffeiliau.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter TASGIAU/Tasg 2/gui_ffeiliau.py",
+                    "gui_siop.py": "resources/Technocamps/Teacher Training/Education Conference 2025 Resources/Python & Tkinter/Welsh/Tkinter/prosiect tkinter TASGIAU/Tasg 2/gui_siop.py"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Hwb DigiFest": {
+          "2024": {
+            "MLfK_CY.pdf": "resources/Technocamps/Teacher Training/Hwb DigiFest/2024/MLfK_CY.pdf",
+            "MLfK_EN.pdf": "resources/Technocamps/Teacher Training/Hwb DigiFest/2024/MLfK_EN.pdf",
+            "MakeCode Platformer_CY.pdf": "resources/Technocamps/Teacher Training/Hwb DigiFest/2024/MakeCode Platformer_CY.pdf",
+            "MakeCode Platformer_EN.pdf": "resources/Technocamps/Teacher Training/Hwb DigiFest/2024/MakeCode Platformer_EN.pdf"
+          }
+        },
+        "Hwb Presents": {
+          "Hwb Presents microbits Session 1 CY.pdf": "resources/Technocamps/Teacher Training/Hwb Presents/Hwb Presents microbits Session 1 CY.pdf",
+          "Hwb Presents microbits Session 1 EN.pdf": "resources/Technocamps/Teacher Training/Hwb Presents/Hwb Presents microbits Session 1 EN.pdf"
+        }
+      },
+      "Workshops": {
+        "Arduino": {
+          "English": {
+            "Arduino Projects": {
+              "Blinking_LED.ino": "resources/Technocamps/Workshops/Arduino/English/Arduino Projects/Blinking_LED.ino",
+              "Dimmer_LED_With_Sensor.ino": "resources/Technocamps/Workshops/Arduino/English/Arduino Projects/Dimmer_LED_With_Sensor.ino",
+              "LED_With_Button.ino": "resources/Technocamps/Workshops/Arduino/English/Arduino Projects/LED_With_Button.ino",
+              "Smart_Light.ino": "resources/Technocamps/Workshops/Arduino/English/Arduino Projects/Smart_Light.ino",
+              "Smart_Light_With_Two_LEDs.ino": "resources/Technocamps/Workshops/Arduino/English/Arduino Projects/Smart_Light_With_Two_LEDs.ino"
+            },
+            "Arduino.pdf": "resources/Technocamps/Workshops/Arduino/English/Arduino.pdf",
+            "Arduino_Worksheet.pdf": "resources/Technocamps/Workshops/Arduino/English/Arduino_Worksheet.pdf"
+          },
+          "Welsh": {
+            "Arduino CY.pdf": "resources/Technocamps/Workshops/Arduino/Welsh/Arduino CY.pdf",
+            "Arduino_Worksheet.pdf": "resources/Technocamps/Workshops/Arduino/Welsh/Arduino_Worksheet.pdf",
+            "Prosiectau Arduino": {
+              "Golau_Smart.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/Golau_Smart.ino",
+              "Golau_Smart_Gyda_Dau_LED.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/Golau_Smart_Gyda_Dau_LED.ino",
+              "LED_Botwm_Aros_Ymlaen.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Botwm_Aros_Ymlaen.ino",
+              "LED_Cryfhau_Gwanhau.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Cryfhau_Gwanhau.ino",
+              "LED_Cryfhau_Gyda_Botwm.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Cryfhau_Gyda_Botwm.ino",
+              "LED_Flachiol.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Flachiol.ino",
+              "LED_Pylu_Gyda_Synhwyrydd.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Pylu_Gyda_Synhwyrydd.ino",
+              "LED_ymlaen_wrth_gwasgu.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_ymlaen_wrth_gwasgu.ino"
+            }
+          }
+        },
+        "Cyber Security Secondary": {
+          "English": {
+            "CyberSecurity Secondary EN.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/English/CyberSecurity Secondary EN.pdf",
+            "CyberSecurity Secondary Teacher Guidance EN.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/English/CyberSecurity Secondary Teacher Guidance EN.pdf",
+            "Encryption Files.zip": "resources/Technocamps/Workshops/Cyber Security Secondary/English/Encryption Files.zip"
+          },
+          "Welsh": {
+            "CyberSecurity Secondary CY.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/CyberSecurity Secondary CY.pdf",
+            "CyberSecurity Secondary Teacher Guidance CY.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/CyberSecurity Secondary Teacher Guidance CY.pdf",
+            "Ffeiliau Amgryptio.zip": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/Ffeiliau Amgryptio.zip"
+          }
+        },
+        "Hwb Live Learning": {
+          "microbit_ML_CY.pdf": "resources/Technocamps/Workshops/Hwb Live Learning/microbit_ML_CY.pdf",
+          "microbit_ML_EN.pdf": "resources/Technocamps/Workshops/Hwb Live Learning/microbit_ML_EN.pdf"
+        },
+        "InDev PyShop 2 Tkinter Boogaloo": {
+          "English": {
+            "PyShop 2 Tkinter Boogaloo Tasks.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/PyShop 2 Tkinter Boogaloo Tasks.pdf",
+            "PyShop_Tkinter_2025.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/PyShop_Tkinter_2025.pdf",
+            "Python Good Practice.pdf": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/Python Good Practice.pdf",
+            "tkinter project COMPLETE": {
+              "FULL_add_stock.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_add_stock.py",
+              "FULL_filehandling.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_filehandling.py",
+              "FULL_items.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_items.csv",
+              "FULL_login.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_login.py",
+              "FULL_main.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_main.py",
+              "FULL_shopface.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project COMPLETE/FULL_shopface.py"
+            },
+            "tkinter project TASKS": {
+              "Task 1": {
+                "gui_shop_login.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 1/gui_shop_login.py"
+              },
+              "Task 2": {
+                "gui_shop_filehandling.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/gui_shop_filehandling.py",
+                "gui_shop_shopface.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/gui_shop_shopface.py",
+                "items.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/English/tkinter project TASKS/Task 2/items.csv"
+              }
+            }
+          },
+          "Welsh": {
+            "prosiect tkinter LLAWN": {
+              "LLAWN_eitemau.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_eitemau.csv",
+              "LLAWN_ffeiliau.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_ffeiliau.py",
+              "LLAWN_main.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_main.py",
+              "LLAWN_mewngofnodi.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_mewngofnodi.py",
+              "LLAWN_siop.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_siop.py",
+              "LLAWN_ychwanegu_stoc.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter LLAWN/LLAWN_ychwanegu_stoc.py"
+            },
+            "prosiect tkinter TASGIAU": {
+              "Tasg 1": {
+                "gui_mewngofnodi.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 1/gui_mewngofnodi.py"
+              },
+              "Tasg 2": {
+                "eitemau.csv": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/eitemau.csv",
+                "gui_ffeiliau.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/gui_ffeiliau.py",
+                "gui_siop.py": "resources/Technocamps/Workshops/InDev PyShop 2 Tkinter Boogaloo/Welsh/prosiect tkinter TASGIAU/Tasg 2/gui_siop.py"
+              }
+            }
+          }
+        },
+        "Networks and Communications": {
+          "EM_Spectrum.pdf": "resources/Technocamps/Workshops/Networks and Communications/EM_Spectrum.pdf",
+          "NAC Event Workshop.pdf": "resources/Technocamps/Workshops/Networks and Communications/NAC Event Workshop.pdf",
+          "NAC_KS2_English.pdf": "resources/Technocamps/Workshops/Networks and Communications/NAC_KS2_English.pdf",
+          "NAC_KS2_Welsh.pdf": "resources/Technocamps/Workshops/Networks and Communications/NAC_KS2_Welsh.pdf",
+          "microbit Mobile Network Worksheets.pdf": "resources/Technocamps/Workshops/Networks and Communications/microbit Mobile Network Worksheets.pdf",
+          "microbit projects.zip": "resources/Technocamps/Workshops/Networks and Communications/microbit projects.zip"
+        },
+        "Python Hangman": {
+          "Python Project": {
+            "hangman_utils.py": "resources/Technocamps/Workshops/Python Hangman/Python Project/hangman_utils.py",
+            "wordlist.txt": "resources/Technocamps/Workshops/Python Hangman/Python Project/wordlist.txt"
+          },
+          "Welsh": {
+            "Python_Hangman_CY.pdf": "resources/Technocamps/Workshops/Python Hangman/Welsh/Python_Hangman_CY.pdf"
+          }
+        },
+        "Scratch Solar System": {
+          "Scratch Projects": {
+            "Disgyrchiant.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Disgyrchiant.sb3",
+            "Earth Moon Advanced.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Earth Moon Advanced.sb3",
+            "Earth Moon.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Earth Moon.sb3",
+            "Gravity.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Gravity.sb3",
+            "Mars Rover Always Winable Attempt.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover Always Winable Attempt.sb3",
+            "Mars Rover Basic.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover Basic.sb3",
+            "Mars Rover.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover.sb3",
+            "Solar System Advanced.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System Advanced.sb3",
+            "Solar System Fixed.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System Fixed.sb3",
+            "Solar System.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System.sb3"
+          },
+          "ScratchSolarSystem_KS2_EN.pdf": "resources/Technocamps/Workshops/Scratch Solar System/ScratchSolarSystem_KS2_EN.pdf",
+          "ScratchSolarSystem_SchemeOfWork_KS2_CY.pdf": "resources/Technocamps/Workshops/Scratch Solar System/ScratchSolarSystem_SchemeOfWork_KS2_CY.pdf"
+        },
+        "Snap! Climate Change": {
+          "Climate_Change_KS4_EN.pdf": "resources/Technocamps/Workshops/Snap! Climate Change/Climate_Change_KS4_EN.pdf",
+          "csv files": {
+            "Annual Surface Temperature Change.csv": "resources/Technocamps/Workshops/Snap! Climate Change/csv files/Annual Surface Temperature Change.csv",
+            "Atmospheric CO2 Concentrations.csv": "resources/Technocamps/Workshops/Snap! Climate Change/csv files/Atmospheric CO2 Concentrations.csv",
+            "Change in Mean Sea Levels.csv": "resources/Technocamps/Workshops/Snap! Climate Change/csv files/Change in Mean Sea Levels.csv",
+            "Worldwide Annual Surface Temperature Change.csv": "resources/Technocamps/Workshops/Snap! Climate Change/csv files/Worldwide Annual Surface Temperature Change.csv",
+            "Worldwide Monthly Surface Temperature Change.csv": "resources/Technocamps/Workshops/Snap! Climate Change/csv files/Worldwide Monthly Surface Temperature Change.csv"
+          }
+        },
+        "Snap! Cybercrime": {
+          "Cybercrime Snap Worksheet.pdf": "resources/Technocamps/Workshops/Snap! Cybercrime/Cybercrime Snap Worksheet.pdf",
+          "Cybercrime_KS4_EN.pdf": "resources/Technocamps/Workshops/Snap! Cybercrime/Cybercrime_KS4_EN.pdf",
+          "csv files": {
+            "Cybercrime Data Cleaned.csv": "resources/Technocamps/Workshops/Snap! Cybercrime/csv files/Cybercrime Data Cleaned.csv",
+            "Cybercrime Data Original.csv": "resources/Technocamps/Workshops/Snap! Cybercrime/csv files/Cybercrime Data Original.csv"
+          }
+        },
+        "Text Adventure OOP": {
+          "Text Adventure OOP EN.pdf": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure OOP EN.pdf",
+          "Text Adventure Project": {
+            "Entity.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Entity.py",
+            "Game.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Game.py",
+            "Map.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Map.py",
+            "Room.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Room.py",
+            "Rooms.csv": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/Rooms.csv",
+            "reference_map.txt": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/reference_map.txt",
+            "test.py": "resources/Technocamps/Workshops/Text Adventure OOP/Text Adventure Project/test.py"
+          }
+        },
+        "_InDev Python Text Adventure": {
+          "Development Folder": {
+            "Python Text Adventure EN.pdf": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Python Text Adventure EN.pdf",
+            "Text Adventure Project": {
+              "Dan.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/Dan.txt",
+              "Rooms.csv": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/Rooms.csv",
+              "actions.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/actions.py",
+              "actions.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/actions.txt",
+              "game_saves_list.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/game_saves_list.txt",
+              "help.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/help.txt",
+              "items.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/items.txt",
+              "load_assets.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/load_assets.py",
+              "map.txt": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/map.txt",
+              "save_handling.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/save_handling.py",
+              "text_adventure.py": "resources/Technocamps/Workshops/_InDev Python Text Adventure/Development Folder/Text Adventure Project/text_adventure.py"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Note that these are example Scratch programs
+
+They will not work without rebuilding the Machine Learning for Kids project!
+
+These can be used as example for building your own projects, or can be loaded into Scratch after the MLfK project is rebuilt.
+
