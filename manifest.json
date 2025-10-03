@@ -38,6 +38,17 @@
         "Sustainability Lab_A5 Sponsorship Flyer.pdf": "resources/Mad Science/Sustainability Lab/Sustainability Lab_A5 Sponsorship Flyer.pdf"
       }
     },
+    "Scratch Programs": {
+      "3D Raycast Parallel.html": "resources/Scratch Programs/3D Raycast Parallel.html",
+      "Big Pit Challenges-2.html": "resources/Scratch Programs/Big Pit Challenges-2.html",
+      "Boolean Algebra Visualiser.html": "resources/Scratch Programs/Boolean Algebra Visualiser.html",
+      "DNA Generator.html": "resources/Scratch Programs/DNA Generator.html",
+      "Earth Moon Advanced.html": "resources/Scratch Programs/Earth Moon Advanced.html",
+      "Gravity.html": "resources/Scratch Programs/Gravity.html",
+      "Lenses.html": "resources/Scratch Programs/Lenses.html",
+      "Solar System Advanced.html": "resources/Scratch Programs/Solar System Advanced.html",
+      "\u03a0 Estimation Monte Carlo.html": "resources/Scratch Programs/\u03a0 Estimation Monte Carlo.html"
+    },
     "Technocamps": {
       "External": {
         "Big Pit (Amgueddfa Cymru)": {
@@ -593,16 +604,12 @@
         },
         "Scratch Solar System": {
           "Scratch Projects": {
-            "Disgyrchiant.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Disgyrchiant.sb3",
-            "Earth Moon Advanced.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Earth Moon Advanced.sb3",
-            "Earth Moon.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Earth Moon.sb3",
-            "Gravity.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Gravity.sb3",
+            "Earth Moon Advanced.html": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Earth Moon Advanced.html",
+            "Gravity.html": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Gravity.html",
             "Mars Rover Always Winable Attempt.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover Always Winable Attempt.sb3",
             "Mars Rover Basic.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover Basic.sb3",
             "Mars Rover.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Mars Rover.sb3",
-            "Solar System Advanced.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System Advanced.sb3",
-            "Solar System Fixed.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System Fixed.sb3",
-            "Solar System.sb3": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System.sb3"
+            "Solar System Advanced.html": "resources/Technocamps/Workshops/Scratch Solar System/Scratch Projects/Solar System Advanced.html"
           },
           "ScratchSolarSystem_KS2_EN.pdf": "resources/Technocamps/Workshops/Scratch Solar System/ScratchSolarSystem_KS2_EN.pdf",
           "ScratchSolarSystem_SchemeOfWork_KS2_CY.pdf": "resources/Technocamps/Workshops/Scratch Solar System/ScratchSolarSystem_SchemeOfWork_KS2_CY.pdf"
