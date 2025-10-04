@@ -15,18 +15,20 @@
         "Newidiadau Cyflwr A3.pdf": "resources/Classroom Teaching/Gwersi Mater/Newidiadau Cyflwr A3.pdf"
       },
       "TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf": "resources/Classroom Teaching/TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf",
-      "Uned 1.8 Damcaniaeth Ginetig.pdf": "resources/Classroom Teaching/Uned 1.8 Damcaniaeth Ginetig.pdf",
-      "Uned 3.4.2 Niwclear.pdf": "resources/Classroom Teaching/Uned 3.4.2 Niwclear.pdf"
+      "Unedau": {
+        "Uned 1.8 Damcaniaeth Ginetig.pdf": "resources/Classroom Teaching/Unedau/Uned 1.8 Damcaniaeth Ginetig.pdf",
+        "Uned 3.4.2 Niwclear.pdf": "resources/Classroom Teaching/Unedau/Uned 3.4.2 Niwclear.pdf"
+      }
     },
     "Dissertations": {
+      "Medical Radiation Physics MSc": {
+        "SBUHB Report of unintended exposures.pdf": "resources/Dissertations/Medical Radiation Physics MSc/SBUHB Report of unintended exposures.pdf"
+      },
       "PGCE": {
         "An Investigation into Utilising Inference Squares.pdf": "resources/Dissertations/PGCE/An Investigation into Utilising Inference Squares.pdf"
       },
       "Physics BSc": {
         "Mass Reduction of the Aral Sea.pdf": "resources/Dissertations/Physics BSc/Mass Reduction of the Aral Sea.pdf"
-      },
-      "Physics MSc": {
-        "SBUHB Report of unintended exposures.pdf": "resources/Dissertations/Physics MSc/SBUHB Report of unintended exposures.pdf"
       }
     },
     "Mad Science": {
@@ -54,80 +56,78 @@
         "Big Pit (Amgueddfa Cymru)": {
           "Big Pit Challenges.html": "resources/Technocamps/External/Big Pit (Amgueddfa Cymru)/Big Pit Challenges.html"
         },
-        "NHS": {
-          "MatPlotLib": {
-            "Cheat Sheets": {
-              "Markdown Cheat Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/Markdown Cheat Sheet.pdf",
-              "Pandas_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/Pandas_Cheat_Sheet.pdf",
-              "matplotlib_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Cheat Sheets/matplotlib_Cheat_Sheet.pdf"
-            },
-            "MatPlotLib Python Project": {
-              "Ideas": {
-                "Session 2 - GW": {
-                  "Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Annual Surface Temperature Change.csv",
-                  "Atmospheric CO2 Concentrations.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Atmospheric CO2 Concentrations.csv",
-                  "Change in Mean Sea Levels.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Change in Mean Sea Levels.csv",
-                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task1.py",
-                  "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task2.py",
-                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task3.py",
-                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task4.py",
-                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task5.py",
-                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task6.py",
-                  "Worldwide Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Annual Surface Temperature Change.csv",
-                  "Worldwide Monthly Surface Temperature Change.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Monthly Surface Temperature Change.csv",
-                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/main.py"
-                },
-                "Session 2 - IMDB": {
-                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task1.py",
-                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task3.py",
-                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task4.py",
-                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task5.py",
-                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task6.py",
-                  "imdb_top_1000.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/imdb_top_1000.csv",
-                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/main.py"
-                },
-                "Session 2 - Pokemon": {
-                  "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task1.py",
-                  "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task2.py",
-                  "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task3.py",
-                  "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task4.py",
-                  "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task5.py",
-                  "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task6.py",
-                  "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/main.py",
-                  "pokemon.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/pokemon.csv"
-                }
+        "NHS - MatPlotLib": {
+          "Cheat Sheets": {
+            "Markdown Cheat Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/Markdown Cheat Sheet.pdf",
+            "Pandas_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/Pandas_Cheat_Sheet.pdf",
+            "matplotlib_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/matplotlib_Cheat_Sheet.pdf"
+          },
+          "MatPlotLib Python Project": {
+            "Ideas": {
+              "Session 2 - GW": {
+                "Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Annual Surface Temperature Change.csv",
+                "Atmospheric CO2 Concentrations.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Atmospheric CO2 Concentrations.csv",
+                "Change in Mean Sea Levels.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Change in Mean Sea Levels.csv",
+                "Task1.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task1.py",
+                "Task2.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task2.py",
+                "Task3.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task3.py",
+                "Task4.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task4.py",
+                "Task5.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task5.py",
+                "Task6.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Task6.py",
+                "Worldwide Annual Surface Temperature Change.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Annual Surface Temperature Change.csv",
+                "Worldwide Monthly Surface Temperature Change.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/Worldwide Monthly Surface Temperature Change.csv",
+                "main.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - GW/main.py"
               },
-              "Session 1 - UFO": {
-                "DansDiet.txt": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/DansDiet.txt",
-                "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task1.py",
-                "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task2.py",
-                "Task3.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task3.py",
-                "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task4.py",
-                "Task5.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task5.py",
-                "Task6.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task6.py",
-                "Task7.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task7.py",
-                "Task8.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task8.py",
-                "UFO_Sightings.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings.csv",
-                "UFO_Sightings_safe.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_safe.csv",
-                "UFO_Sightings_slim.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_slim.csv",
-                "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/main.py"
+              "Session 2 - IMDB": {
+                "Task1.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task1.py",
+                "Task3.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task3.py",
+                "Task4.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task4.py",
+                "Task5.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task5.py",
+                "Task6.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/Task6.py",
+                "imdb_top_1000.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/imdb_top_1000.csv",
+                "main.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - IMDB/main.py"
               },
-              "Session 2 - Olympics": {
-                "Task1.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task1.py",
-                "Task2.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task2.py",
-                "Task3a.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3a.py",
-                "Task3b.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3b.py",
-                "Task4.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task4.py",
-                "athlete_events.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/athlete_events.csv",
-                "main.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/main.py",
-                "noc_regions.csv": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/noc_regions.csv",
-                "test.py": "resources/Technocamps/External/NHS/MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/test.py"
+              "Session 2 - Pokemon": {
+                "Task1.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task1.py",
+                "Task2.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task2.py",
+                "Task3.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task3.py",
+                "Task4.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task4.py",
+                "Task5.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task5.py",
+                "Task6.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/Task6.py",
+                "main.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/main.py",
+                "pokemon.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Ideas/Session 2 - Pokemon/pokemon.csv"
               }
             },
-            "NHS Data Analysis, Manipulation & Visualisation.pdf": "resources/Technocamps/External/NHS/MatPlotLib/NHS Data Analysis, Manipulation & Visualisation.pdf",
-            "NHS Python Basics & MatPlotLib.pdf": "resources/Technocamps/External/NHS/MatPlotLib/NHS Python Basics & MatPlotLib.pdf",
-            "Pandas_MatPlotLib_Lab_Task.pdf": "resources/Technocamps/External/NHS/MatPlotLib/Pandas_MatPlotLib_Lab_Task.pdf"
-          }
+            "Session 1 - UFO": {
+              "DansDiet.txt": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/DansDiet.txt",
+              "Task1.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task1.py",
+              "Task2.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task2.py",
+              "Task3.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task3.py",
+              "Task4.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task4.py",
+              "Task5.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task5.py",
+              "Task6.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task6.py",
+              "Task7.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task7.py",
+              "Task8.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/Task8.py",
+              "UFO_Sightings.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings.csv",
+              "UFO_Sightings_safe.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_safe.csv",
+              "UFO_Sightings_slim.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/UFO_Sightings_slim.csv",
+              "main.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 1 - UFO/main.py"
+            },
+            "Session 2 - Olympics": {
+              "Task1.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task1.py",
+              "Task2.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task2.py",
+              "Task3a.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3a.py",
+              "Task3b.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task3b.py",
+              "Task4.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/Task4.py",
+              "athlete_events.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/athlete_events.csv",
+              "main.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/main.py",
+              "noc_regions.csv": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/noc_regions.csv",
+              "test.py": "resources/Technocamps/External/NHS - MatPlotLib/MatPlotLib Python Project/Session 2 - Olympics/test.py"
+            }
+          },
+          "NHS Data Analysis, Manipulation & Visualisation.pdf": "resources/Technocamps/External/NHS - MatPlotLib/NHS Data Analysis, Manipulation & Visualisation.pdf",
+          "NHS Python Basics & MatPlotLib.pdf": "resources/Technocamps/External/NHS - MatPlotLib/NHS Python Basics & MatPlotLib.pdf",
+          "Pandas_MatPlotLib_Lab_Task.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Pandas_MatPlotLib_Lab_Task.pdf"
         }
       },
       "Teacher Training": {
@@ -345,28 +345,28 @@
           }
         },
         "Education Conference 2022 Resources": {
-          "Machine Learning ": {
-            "Artists (60 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Artists (60 images).zip",
-            "Artists (90 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Artists (90 images).zip",
+          "Machine Learning": {
+            "Artists (60 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Artists (60 images).zip",
+            "Artists (90 images).zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Artists (90 images).zip",
             "Presentations": {
-              "CFW Primary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Primary Machine Learning CPD CY.pdf",
-              "CFW Primary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Primary Machine Learning CPD EN.pdf",
-              "CFW Secondary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Secondary Machine Learning CPD CY.pdf",
-              "CFW Secondary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Presentations/CFW Secondary Machine Learning CPD EN.pdf"
+              "CFW Primary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Presentations/CFW Primary Machine Learning CPD CY.pdf",
+              "CFW Primary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Presentations/CFW Primary Machine Learning CPD EN.pdf",
+              "CFW Secondary Machine Learning CPD CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Presentations/CFW Secondary Machine Learning CPD CY.pdf",
+              "CFW Secondary Machine Learning CPD EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Presentations/CFW Secondary Machine Learning CPD EN.pdf"
             },
             "Primary Version": {
-              "Test images.zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Primary Version/Test images.zip"
+              "Test images.zip": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Primary Version/Test images.zip"
             },
             "Scratch Files": {
-              "Artist Recognition Advanced.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Artist Recognition Advanced.sb3",
-              "Artist Recognition Simple.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Artist Recognition Simple.sb3",
-              "Authors Recognition.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Authors Recognition.sb3",
-              "Make Me Happy.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Make Me Happy.sb3",
-              "Note on examples.txt": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Scratch Files/Note on examples.txt"
+              "Artist Recognition Advanced.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Scratch Files/Artist Recognition Advanced.sb3",
+              "Artist Recognition Simple.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Scratch Files/Artist Recognition Simple.sb3",
+              "Authors Recognition.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Scratch Files/Authors Recognition.sb3",
+              "Make Me Happy.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Scratch Files/Make Me Happy.sb3",
+              "Note on examples.txt": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Scratch Files/Note on examples.txt"
             },
             "Workbooks": {
-              "CFW_MLfK_CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Workbooks/CFW_MLfK_CY.pdf",
-              "CFW_MLfK_EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning /Workbooks/CFW_MLfK_EN.pdf"
+              "CFW_MLfK_CY.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Workbooks/CFW_MLfK_CY.pdf",
+              "CFW_MLfK_EN.pdf": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Machine Learning/Workbooks/CFW_MLfK_EN.pdf"
             }
           },
           "Programming Across CFW": {
@@ -571,18 +571,6 @@
               "LED_Pylu_Gyda_Synhwyrydd.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_Pylu_Gyda_Synhwyrydd.ino",
               "LED_ymlaen_wrth_gwasgu.ino": "resources/Technocamps/Workshops/Arduino/Welsh/Prosiectau Arduino/LED_ymlaen_wrth_gwasgu.ino"
             }
-          }
-        },
-        "Cyber Security Secondary": {
-          "English": {
-            "CyberSecurity Secondary EN.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/English/CyberSecurity Secondary EN.pdf",
-            "CyberSecurity Secondary Teacher Guidance EN.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/English/CyberSecurity Secondary Teacher Guidance EN.pdf",
-            "Encryption Files.zip": "resources/Technocamps/Workshops/Cyber Security Secondary/English/Encryption Files.zip"
-          },
-          "Welsh": {
-            "CyberSecurity Secondary CY.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/CyberSecurity Secondary CY.pdf",
-            "CyberSecurity Secondary Teacher Guidance CY.pdf": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/CyberSecurity Secondary Teacher Guidance CY.pdf",
-            "Ffeiliau Amgryptio.zip": "resources/Technocamps/Workshops/Cyber Security Secondary/Welsh/Ffeiliau Amgryptio.zip"
           }
         },
         "Networks and Communications": {

@@ -60,8 +60,18 @@
         }
     }
 
-    let folderIdCounter = 0;
+    let folderDescriptions = {};
+    async function loadDescriptions() {
+        try {
+            const res = await fetch('descriptions.json?cacheBust=' + Date.now());
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            folderDescriptions = await res.json();
+        } catch(err) {
+            console.warn("Descriptions not found or failed to load", err);
+        }
+    }
 
+    let folderIdCounter = 0;
     function buildNav(obj, parent, path) {
         for (let key in obj) {
             const item = obj[key];
@@ -91,8 +101,8 @@
 
                     // Always show download button
                     let downloadHTML = `<div class="mb-2">
-        <a class="btn btn-primary" href="${item}" download>⬇️ Download ${key}</a>
-    </div>`;
+                                        <a class="btn btn-primary" href="${item}" download>⬇️ Download ${key}</a>
+                                        </div>`;
 
                     const ext = key.split('.').pop().toLowerCase();
 
@@ -133,6 +143,16 @@
                 folderHeader.textContent = key;
                 li.appendChild(folderHeader);
 
+                // Show folder destriptions
+                folderHeader.onclick = (e) => {
+                    e.preventDefault();
+                    const viewerContainer = document.getElementById("viewer-container");
+
+                    const desc = folderDescriptions[key] || "No description available.";
+                    document.getElementById("doc-title").innerText = key;
+                    viewerContainer.innerHTML = `${desc}`;
+                };
+
                 const ul = document.createElement("ul");
                 ul.classList.add("nav", "flex-column", "collapse", "ms-3");
                 ul.id = folderId;
@@ -146,6 +166,7 @@
     }
 
     loadManifest();
+    loadDescriptions();
 </script>
 </body>
 </html>
