@@ -14,41 +14,48 @@ body { padding-top: 3.5rem; margin: 0; }
     margin-bottom: 0.25rem;
 }
 
-.navbar .nav-link {
+/* Inactive navbar links */
+.navbar-dark .navbar-nav .nav-link:not(.active) {
     display: block;
     padding: 0.3rem 0.5rem;
     border-radius: 0.25rem;
-    color: #5f6368 !important;
+    color: #5f6368;       /* inactive link color */
     cursor: pointer;
+    text-decoration: none;
 }
 
-/* Leave active links alone*/
-.navbar .nav-link.active {}
+/* Active link uses Bootstrap default - do NOT override */
+.navbar-dark .navbar-nav .nav-link.active {
+    /* leave empty to preserve Bootstrap styling */
+}
 
-.nav-link:hover {
-    color: #343a40;       /* slightly darker grey on hover */
+/* Hover / focus for inactive links */
+.navbar-dark .navbar-nav .nav-link:not(.active):hover,
+.navbar-dark .navbar-nav .nav-link:not(.active):focus {
+    color: #343a40;           /* slightly darker grey */
     background-color: #e2e6ea;
     text-decoration: none;
 }
 
-.nav-link[data-type="pdf"]   { color: #dc3545; } /* red (Bootstrap’s danger) */
-.nav-link[data-type="text"]  { color: #6f42c1; } /* purple */
-.nav-link[data-type="code"]  { color: #e83e8c; } /* rose/pink */
-.nav-link[data-type="html"]  { color: #0d6efd; } /* blue */
-.nav-link[data-type="data"]  { color: #20c997; } /* teal */
-.nav-link[data-type="image"] { color: #198754; } /* green */
-.nav-link[data-type="other"] { color: #fd7e14; } /* orange */
-.nav-link[data-type="none"]  { color: #6c757d; } /* gray (extensionless) */
+/* Sidebar nav-link data-type colors (unchanged) */
+.nav-link[data-type="pdf"]   { color: #dc3545; }
+.nav-link[data-type="text"]  { color: #6f42c1; }
+.nav-link[data-type="code"]  { color: #e83e8c; }
+.nav-link[data-type="html"]  { color: #0d6efd; }
+.nav-link[data-type="data"]  { color: #20c997; }
+.nav-link[data-type="image"] { color: #198754; }
+.nav-link[data-type="other"] { color: #fd7e14; }
+.nav-link[data-type="none"]  { color: #6c757d; }
 
-
+/* Sidebar nested lists */
 ul.nav > li > ul {
     padding-left: 1rem;
     margin-top: 0.25rem;
-    border-left: 2px solid #ccc; /* vertical line to indicate nesting */
+    border-left: 2px solid #ccc;
 }
 
 ul.nav > li > ul > li > ul {
-    border-color: #bbb; /* deeper nesting slightly darker */
+    border-color: #bbb;
 }
 
 .folder-header {
