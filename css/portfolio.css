@@ -22,6 +22,15 @@ body { padding-top: 3.5rem; margin: 0; }
     cursor: pointer;
 }
 
+.nav-link[data-type="pdf"]   { color: #dc3545; } /* red (Bootstrap’s danger) */
+.nav-link[data-type="text"]  { color: #6f42c1; } /* purple */
+.nav-link[data-type="code"]  { color: #e83e8c; } /* rose/pink */
+.nav-link[data-type="html"]  { color: #0d6efd; } /* blue */
+.nav-link[data-type="data"]  { color: #20c997; } /* teal */
+.nav-link[data-type="image"] { color: #198754; } /* green */
+.nav-link[data-type="other"] { color: #fd7e14; } /* orange */
+.nav-link[data-type="none"]  { color: #6c757d; } /* gray (extensionless) */
+
 .nav-link:hover {
     background-color: #e2e6ea;
     text-decoration: none;

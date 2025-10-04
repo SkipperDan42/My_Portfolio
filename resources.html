@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dan North</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/portfolio.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Top title bar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand fs-4" href="#">📂 Teaching Portfolio - Dan North</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <!-- NAVBAR RIGHT SIDE -->
+        <ul class="navbar-nav mx-auto fs-4">
+            <li class="nav-item"><a class="nav-link me-5" style="color:#5f6368;" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link active me-5" href="#">Portfolio</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container-fluid">
+    <div class="row-flex">
+        <nav class="sidebar">
+            <h5>Resources</h5>
+            <ul id="nav-list" class="nav flex-column"></ul>
+        </nav>
+        <main>
+            <h3 id="doc-title">Select a file to view</h3>
+            <div id="viewer-container">
+                <iframe id="pdf-viewer" src=""></iframe>
+            </div>
+        </main>
+    </div>
+</div>
+
+<script src="js/bootstrap.bundle.js"></script>
+<script>
+    async function loadManifest() {
+        try {
+            const res = await fetch('manifest.json?cacheBust=' + Date.now());
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const data = await res.json();
+
+            // Loop over all top-level keys (e.g. "docs", "resources")
+            for (let key in data) {
+                buildNav(data[key], document.getElementById('nav-list'), key);
+            }
+        } catch (err) {
+            console.error("Failed to load manifest.json:", err);
+            document.getElementById("nav-list").innerHTML =
+                "<li class='nav-item text-danger'>⚠️ Could not load manifest.json</li>";
+        }
+    }
+
+    let folderIdCounter = 0;
+
+    function buildNav(obj, parent, path) {
+        for (let key in obj) {
+            const item = obj[key];
+            const li = document.createElement("li");
+            li.classList.add("nav-item");
+
+            if (typeof item === "string") {
+
+                const a = document.createElement("a");
+                a.classList.add("nav-link");
+                a.href = "#";
+                a.textContent = key;
+
+                const ext = key.split('.').pop().toLowerCase();
+                if (ext === "pdf") a.dataset.type = "pdf";
+                else if (["png","jpg","jpeg","gif"].includes(ext)) a.dataset.type = "image";
+                else if (["txt","csv"].includes(ext)) a.dataset.type = "text";
+                else if (["sb3","zip"].includes(ext)) a.dataset.type = "data";
+                else if (["py","ino"].includes(ext)) a.dataset.type = "code";
+                else if (ext === "html") a.dataset.type = "html";
+                else if (ext === "none") a.dataset.type = "none";
+                else a.dataset.type = "other";
+
+                a.onclick = () => {
+                    document.getElementById("doc-title").innerText = key;
+                    const viewerContainer = document.getElementById("viewer-container");
+
+                    // Always show download button
+                    let downloadHTML = `<div class="mb-2">
+        <a class="btn btn-primary" href="${item}" download>⬇️ Download ${key}</a>
+    </div>`;
+
+                    const ext = key.split('.').pop().toLowerCase();
+
+                    if (ext === "pdf") {
+                        viewerContainer.innerHTML = downloadHTML + `<iframe src="${item}"></iframe>`;
+                    } else if (["png", "jpg", "jpeg", "gif"].includes(ext)) {
+                        viewerContainer.innerHTML = downloadHTML + `<img src="${item}" class="img-fluid">`;
+                    } else if (["txt","csv","py","ino"].includes(ext)) {
+                        fetch(item)
+                            .then(res => res.text())
+                            .then(text => {
+                                viewerContainer.innerHTML =
+                                    downloadHTML + `<pre>${text.replace(/</g,"&lt;").replace(/>/g,"&gt;")}</pre>`;
+                            })
+                            .catch(err => {
+                                viewerContainer.innerHTML = downloadHTML +
+                                    `<div class="alert alert-danger">Failed to load file</div>`;
+                            });
+                    } else if (ext === "html") {
+                        viewerContainer.innerHTML = downloadHTML +
+                            `<iframe src="${item}" sandbox="allow-scripts allow-same-origin" style="width:100%;height:90vh;border:none;"></iframe>`;
+                    } else {
+                        viewerContainer.innerHTML = downloadHTML +
+                            `<div class="alert alert-info">Cannot preview this file type.</div>`;
+                    }
+                };
+                li.appendChild(a);
+
+            } else {
+                // folder
+                const folderId = "folder-" + folderIdCounter++;
+                const folderHeader = document.createElement("a");
+                folderHeader.classList.add("nav-link", "folder-header"); // added folder-header class
+                folderHeader.href = "#";
+                folderHeader.dataset.bsToggle = "collapse";
+                folderHeader.dataset.bsTarget = "#" + folderId;
+                folderHeader.setAttribute("aria-expanded", "false");
+                folderHeader.textContent = key;
+                li.appendChild(folderHeader);
+
+                const ul = document.createElement("ul");
+                ul.classList.add("nav", "flex-column", "collapse", "ms-3");
+                ul.id = folderId;
+
+                buildNav(item, ul, path + "/" + key);
+                li.appendChild(ul);
+            }
+
+            parent.appendChild(li);
+        }
+    }
+
+    loadManifest();
+</script>
+</body>
+</html>
