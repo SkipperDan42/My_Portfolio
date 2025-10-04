@@ -18,8 +18,13 @@ body { padding-top: 3.5rem; margin: 0; }
     display: block;
     padding: 0.3rem 0.5rem;
     border-radius: 0.25rem;
-    color: #333;
+    color: #5f6368;
     cursor: pointer;
+}
+
+.nav-link:hover {
+    background-color: #e2e6ea;
+    text-decoration: none;
 }
 
 .nav-link[data-type="pdf"]   { color: #dc3545; } /* red (Bootstrap’s danger) */
@@ -31,10 +36,6 @@ body { padding-top: 3.5rem; margin: 0; }
 .nav-link[data-type="other"] { color: #fd7e14; } /* orange */
 .nav-link[data-type="none"]  { color: #6c757d; } /* gray (extensionless) */
 
-.nav-link:hover {
-    background-color: #e2e6ea;
-    text-decoration: none;
-}
 
 ul.nav > li > ul {
     padding-left: 1rem;
