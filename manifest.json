@@ -14,7 +14,6 @@
         "Llyfryn Waith.pdf": "resources/Classroom Teaching/Gwersi Mater/Llyfryn Waith.pdf",
         "Newidiadau Cyflwr A3.pdf": "resources/Classroom Teaching/Gwersi Mater/Newidiadau Cyflwr A3.pdf"
       },
-      "TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf": "resources/Classroom Teaching/TASG RHIFEDD AMGYLCHEDD -SYLFAENOL.pdf",
       "Unedau": {
         "Uned 1.8 Damcaniaeth Ginetig.pdf": "resources/Classroom Teaching/Unedau/Uned 1.8 Damcaniaeth Ginetig.pdf",
         "Uned 3.4.2 Niwclear.pdf": "resources/Classroom Teaching/Unedau/Uned 3.4.2 Niwclear.pdf"
@@ -58,11 +57,6 @@
           "Big Pit Challenges.html": "resources/Technocamps/External/Big Pit (Amgueddfa Cymru)/Big Pit Challenges.html"
         },
         "NHS - MatPlotLib": {
-          "Cheat Sheets": {
-            "Markdown Cheat Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/Markdown Cheat Sheet.pdf",
-            "Pandas_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/Pandas_Cheat_Sheet.pdf",
-            "matplotlib_Cheat_Sheet.pdf": "resources/Technocamps/External/NHS - MatPlotLib/Cheat Sheets/matplotlib_Cheat_Sheet.pdf"
-          },
           "MatPlotLib Python Project": {
             "Ideas": {
               "Session 2 - GW": {
@@ -404,7 +398,7 @@
                 "Cwis Cyfieithu.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cwis Cyfieithu.sb3",
                 "Cyflyrau Mater.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cyflyrau Mater.sb3",
                 "Cylchred Dw\u0302r.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Cylchred Dw\u0302r.sb3",
-                "G\u00eam Lliwiau.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/G\u00eam Lliwiau.sb3",
+                "Ge\u0302m Lliwiau.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Ge\u0302m Lliwiau.sb3",
                 "Pong.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Pong.sb3",
                 "Siapau Pen.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Siapau Pen.sb3",
                 "Ymfudiad.sb3": "resources/Technocamps/Teacher Training/Education Conference 2022 Resources/Programming Across CFW/Scratch Files/Welsh/Ymfudiad.sb3"
