@@ -568,31 +568,6 @@
             }
           }
         },
-        "DNA Evolution": {
-          "ChatGPT.py": "resources/Technocamps/Workshops/DNA Evolution/ChatGPT.py",
-          "README.md": "resources/Technocamps/Workshops/DNA Evolution/README.md",
-          "__pycache__": {
-            "dna_dictionaries.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_dictionaries.cpython-313.pyc",
-            "dna_dictionaries.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_dictionaries.cpython-39.pyc",
-            "dna_functions.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_functions.cpython-313.pyc",
-            "dna_functions.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_functions.cpython-39.pyc",
-            "dna_generator.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_generator.cpython-313.pyc",
-            "dna_generator.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/dna_generator.cpython-39.pyc",
-            "gene_dictionaries.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/gene_dictionaries.cpython-313.pyc",
-            "gene_dictionaries.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/gene_dictionaries.cpython-39.pyc",
-            "main.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/main.cpython-313.pyc",
-            "main.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/main.cpython-39.pyc",
-            "printers.cpython-313.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/printers.cpython-313.pyc",
-            "printers.cpython-39.pyc": "resources/Technocamps/Workshops/DNA Evolution/__pycache__/printers.cpython-39.pyc"
-          },
-          "dna_dictionaries.py": "resources/Technocamps/Workshops/DNA Evolution/dna_dictionaries.py",
-          "dna_functions.py": "resources/Technocamps/Workshops/DNA Evolution/dna_functions.py",
-          "dna_generator.py": "resources/Technocamps/Workshops/DNA Evolution/dna_generator.py",
-          "dna_gui.py": "resources/Technocamps/Workshops/DNA Evolution/dna_gui.py",
-          "gene_dictionaries.py": "resources/Technocamps/Workshops/DNA Evolution/gene_dictionaries.py",
-          "main.py": "resources/Technocamps/Workshops/DNA Evolution/main.py",
-          "printers.py": "resources/Technocamps/Workshops/DNA Evolution/printers.py"
-        },
         "Networks and Communications": {
           "EM_Spectrum.pdf": "resources/Technocamps/Workshops/Networks and Communications/EM_Spectrum.pdf",
           "NAC Event Workshop.pdf": "resources/Technocamps/Workshops/Networks and Communications/NAC Event Workshop.pdf",
